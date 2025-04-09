@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#29B6F6</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorCard">#FFFFFF</color>
+    <color name="colorText">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+
+    <!-- Couleurs pour les notes -->
+    <color name="highGradeBackground">#E8F5E9</color>
+    <color name="highGradeText">#2E7D32</color>
+
+    <color name="mediumGradeBackground">#E3F2FD</color>
+    <color name="mediumGradeText">#1565C0</color>
+
+    <color name="lowGradeBackground">#FFEBEE</color>
+    <color name="lowGradeText">#C62828</color>
+    <color name="yelow1">#FFFF00</color>
+</resources>

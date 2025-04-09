@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestion des Notes</string>
+
+    <!-- MainActivity -->
+    <string name="search_hint">Rechercher par nom, prénom ou matière</string>
+    <string name="sort_by_name">Trier par nom</string>
+    <string name="sort_by_grade">Trier par note</string>
+    <string name="no_grades">Aucune note enregistrée</string>
+    <string name="add_grade">Ajouter une note</string>
+    <string name="grade_added">Note ajoutée avec succès</string>
+    <string name="grade_deleted">Note supprimée</string>
+    <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer cette note?</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+
+    <!-- Menu -->
+    <string name="a_propos">À propos</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="about_text">Application de Gestion des Notes\nDéveloppée par [Votre Nom]\nVersion 1.0</string>
+
+    <!-- AjouterNoteActivity -->
+    <string name="student_info">Informations de l\'étudiant</string>
+    <string name="course_info">Informations de la matière</string>
+    <string name="grade_info">Note obtenue</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="email">Email</string>
+    <string name="matiere">Matière</string>
+    <string name="coefficient">Coefficient</string>
+    <string name="note_sur_20">Note sur 20</string>
+    <string name="enregistrer">Enregistrer</string>
+
+    <!-- Error messages -->
+    <string name="required_field">Ce champ est requis</string>
+    <string name="invalid_email">Email invalide</string>
+    <string name="positive_coefficient">Le coefficient doit être un nombre positif</string>
+    <string name="grade_range">La note doit être entre 0 et 20</string>
+    <string name="invalid_number">Doit être un nombre valide</string>
+
+    <!-- Ajoutez ces lignes à votre fichier strings.xml existant -->
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="incorrect_credentials">Identifiants incorrects</string>
+    <string name="contact_admin">Contactez l\'administrateur</string>
+</resources>

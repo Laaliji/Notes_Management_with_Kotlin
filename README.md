@@ -22,4 +22,4 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. Clonez ce repository sur votre machine locale :
 
    ```bash
-   git clone https://github.com/zakariaelaalijihh2003/notes-app.git
+   git clone [https://github.com/zakariaelaalijihh2003/notes-app.git](https://github.com/Laaliji/Notes_Management_with_Kotlin.git)
